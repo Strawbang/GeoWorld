@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\BOUGOUFFA\\StudioProjects\\GeoWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row.xml",
+        "source": "C:\\Users\\BOUGOUFFA\\StudioProjects\\GeoWorld\\app\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "C:\\Users\\BOUGOUFFA\\StudioProjects\\GeoWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_main.xml",
+        "source": "C:\\Users\\BOUGOUFFA\\StudioProjects\\GeoWorld\\app\\src\\main\\res\\layout\\list_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\BOUGOUFFA\\StudioProjects\\GeoWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu.xml",
+        "source": "C:\\Users\\BOUGOUFFA\\StudioProjects\\GeoWorld\\app\\src\\main\\res\\layout\\menu.xml"
+    }
+]

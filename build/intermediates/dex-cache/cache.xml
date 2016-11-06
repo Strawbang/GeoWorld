@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\BOUGOUFFA\StudioProjects\GeoWorld\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6a890000f10ecc3505cfdab606d03194febb992d">
+        <dex dex="C:\Users\BOUGOUFFA\StudioProjects\GeoWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_349387daa535bbcd995eb8ee681b92a41a00f68a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\BOUGOUFFA\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\BOUGOUFFA\StudioProjects\GeoWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_1fb862d2f0f98397e83fdd7db6235e96db952f3c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\BOUGOUFFA\StudioProjects\GeoWorld\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\BOUGOUFFA\StudioProjects\GeoWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_8eca8ae11153f00f0d30e5ab377a1b9879729b0e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\BOUGOUFFA\StudioProjects\GeoWorld\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="55e7ed7366621229e058de67ed4a2675778db1ae">
+        <dex dex="C:\Users\BOUGOUFFA\StudioProjects\GeoWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a0de9b43ebd83aea635be885dc5ee6f421e0ffe1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\BOUGOUFFA\StudioProjects\GeoWorld\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\BOUGOUFFA\StudioProjects\GeoWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_ccb027f811e6bb474d34cc297adfa78fa6cbc980\classes.dex" />
+    </item>
+
+</items>
